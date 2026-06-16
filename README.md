@@ -1,7 +1,7 @@
 # NightCity Finance Bank & Arcade
 A fully offline, cyberpunk-themed mobile banking simulation and arcade app built with React Native and Expo.
 
-NightCity Bank provides a futuristic immersive experience where users can manage their finances, invest in a dynamic stock market, take out loans, and play arcade games—all without ever needing an internet connection.
+NightCity Bank is a simulator that provides a futuristic immersive experience where users can manage their finances, invest in a dynamic stock market, take out loans, and play arcade games—all without ever needing an internet connection.
 
 # Features
 Immersive Banking: Manage credits, perform wire transfers, and track transaction history.
